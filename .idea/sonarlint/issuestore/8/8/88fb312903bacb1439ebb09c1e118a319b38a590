@@ -1,5 +1,7 @@
 
+?
+java:S2187"Add some tests to this class.(ÎÏß×ıÿÿÿÿ8û¨ ¢è1
 s
-java:S3415"2Change this assertion to not compare two literals.(ŠóäüÿÿÿÿJ$a9f03240-fcf7-4b39-b663-df40d2061ea2
+java:S3415"2Change this assertion to not compare two literals.(ŠóäüÿÿÿÿJ$e68394c9-3ac0-4c94-a436-321cac3a72bd
 Œ
-java:S5863"KReplace this assertion to not have the same actual and expected expression.(ŠóäüÿÿÿÿJ$1614225d-99b5-4393-b9ff-d2fe0c0b42bf
+java:S5863"KReplace this assertion to not have the same actual and expected expression.(ŠóäüÿÿÿÿJ$8d5167da-e55b-4ac9-869b-7123f9e1792a
